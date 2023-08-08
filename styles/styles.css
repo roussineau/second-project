@@ -287,6 +287,10 @@ h3 {
     min-width: 50%;
 }
 
+.formulario__campo option {
+    color: #000;
+}
+
 .formulario__submit {
     border: none;
     border-radius: .6rem;
